@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**GabrielMartinezRodriguez/GabrielMartinezRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel and I'm a Software Engineer with more than 5 years experience. I've worked in several industries but since 3 years ago I'm working in crypto.
 
-Here are some ideas to get you started:
+💼 Blockchain Engineer @ Stability Protocol
+📍 Remote - Barcelona, Spain
+🫶 Running and sharing beers
+🔬 Interested in Tokenomics and Blockchain scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## TECH STACK
+
+NodeJS / Solidity / React / NextJS / Rust / DevOps / AWS CDK / TypeScript / CSS / Mongo / PostgreSQL / Redis / ...
+
+"As a Full-Stack Developer with experience in NodeJS, Solidity, React, NextJS, Rust, and AWS CDK, I am confident in my ability to deliver high-quality applications that meet the needs of your team. My expertise in TypeScript, CSS, Mongo, PostgreSQL, and Redis allows me to work with a wide range of technologies and build scalable and reliable solutions." - ChatGPT
+
+## MOTTO
+
+Keep It Simple, Stupid
