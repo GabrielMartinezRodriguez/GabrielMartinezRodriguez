@@ -14,4 +14,4 @@ NodeJS / Solidity / React / NextJS / Rust / DevOps / AWS CDK / TypeScript / CSS 
 
 ## MOTTO
 
-<pre><code>Why make it simple if I can complicate it?</code></pre>
+<pre><code>Keep It Simple, Stupid</code></pre>
